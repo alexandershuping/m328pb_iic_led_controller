@@ -1,0 +1,6 @@
+build
+atmega328pb_datasheet.pdf
+*.o
+*.hex
+*.elf
+*.swp
